@@ -78,12 +78,12 @@
     },
     "OWNER_NAME": {
       "description": "Enter the name of the bot owner. This name will be displayed when required.",
-      "value": "France King",
+      "value": "Moe Vippeer",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your phone number without the '+' sign. Use your country code (e.g., '254' for Kenya).",
-      "value": "254751284190",
+      "value": "255746769960",
       "required": false
     },
     "WARN_COUNT": {
